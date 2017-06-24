@@ -1,0 +1,60 @@
+body {
+  background: #f8f8f8;
+}
+.comit {
+  margin-top: 60px;
+}
+.comit .col-lg-8 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.comit .col-lg-8 h4 {
+  border-bottom: 1px solid #204D74;
+  height: 30px;
+}
+.port {
+  margin-top: 15px;
+}
+.port .col-lg-8 {
+  padding-top: 30px;
+  background: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.port .col-lg-8 .col-lg-6 {
+  font-size: 12px;
+}
+.port .col-lg-8 .col-lg-6 button {
+  width: 100%;
+  background: #383838;
+}
+.port .col-lg-8 .col-lg-6 p {
+  margin-top: 40px;
+}
+.port .col-lg-8 .col-lg-6 .user2 {
+  margin-top: 60px;
+}
+.port .col-lg-8 .erweima {
+  padding-top: 17px;
+}
+.port .col-lg-8 .erweima img {
+  margin-top: 90px;
+  display: block;
+  float: left;
+  width: 50%;
+}
+.port .col-lg-8 .erweima span {
+  float: left;
+}
+.port .col-lg-8 .erweima span {
+  margin-top: 80px;
+}
+.footer {
+  margin-top: 30px;
+  padding-top: 30px;
+  background: #363636;
+  color: #718686;
+}

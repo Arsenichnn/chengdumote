@@ -1,0 +1,44 @@
+@import url(m_style.css);
+.full(@w,@h,@bg){
+    width: @w;
+    height: @h;
+    background: @bg;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.cen{
+    margin: 0 auto;
+}
+.header{
+    height: 60px;
+    line-height: 60px;
+    
+    .navbar-brand{
+        width: 100px;
+        background: url(../img/logo.png)no-repeat center center;
+        background-size: 100% auto;
+        button{
+        color: #c3924d;
+    }
+    }
+    
+    .nav{
+        li{
+            a:hover{
+        color: #c3924d;
+    }
+        }
+        .active{
+            a{
+                color: #c3924d;
+            }
+        }
+    }
+}
+.banner{
+    margin-top: -7px;
+}
